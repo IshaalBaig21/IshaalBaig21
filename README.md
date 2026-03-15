@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently focusing on **C++**, **Python**, and **Software Engineering** fundamentals.
+- 🔭 I’m currently focusing on **C++**, **Python**, and **Software Engineering and Development** fundamentals.
 - 🌐 I have experience building web applications using **Flask** and **SQL**.
 - 👗 Fun fact: I balance my tech studies with managing my own brand **Zaibayah**.
 - 📫 Reach me via LinkedIn: [Ishaal Ahmad Baig](https://www.linkedin.com/in/ishaal-ahmad-baig-86abb83b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
@@ -15,7 +15,7 @@
 ### 🛠️ My Tech Stack:
 - **Languages:** Python, C++, SQL
 - **Web:** Flask, HTML5, CSS3
-- **Tools:** Git, GitHub, VS Code, Canva
+- **Tools:** Git, GitHub, VS Code, Canva, MS Office
 
 ---
 
